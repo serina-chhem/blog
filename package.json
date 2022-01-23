@@ -20,5 +20,8 @@
   },
   "prisma": {
     "seed": "yarn rw exec seed"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.3"
   }
 }

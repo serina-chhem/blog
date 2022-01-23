@@ -1,0 +1,9 @@
+@import url("./font/stylesheet.css");
+
+:root{
+  --font: 'Euclid Circular B', sans-serif;
+}
+
+body{
+  margin: auto;
+}
