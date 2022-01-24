@@ -1,4 +1,3 @@
-// import { Link, routes } from '@redwoodjs/router'
 import Footer from 'src/components/Footer/Footer'
 import Header from 'src/components/Header/Header'
 
