@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import React from 'react'
 
 const FooterContainer = styled.div`
   height: auto;
